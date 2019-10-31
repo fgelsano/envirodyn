@@ -46,3 +46,15 @@
     border-style: solid;
     border-color: #28a745 transparent transparent transparent;
 }
+
+ul.pagination li a {
+    color: #28a745;
+}
+
+.page-item.active .page-link{
+  background-color: #28a745;
+}
+
+#nav-tab a.active .product-cat-details .lead{
+  color: #28a745;
+}

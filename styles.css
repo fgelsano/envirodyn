@@ -35,3 +35,14 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+nav a.active::after{
+    content: " ";
+    position: absolute;
+    top: 110%;
+    left: 30%;
+    margin-left: -15px;
+    border-width: 75px;
+    border-style: solid;
+    border-color: #28a745 transparent transparent transparent;
+}

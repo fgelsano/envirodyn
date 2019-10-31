@@ -29,3 +29,9 @@
 #our-company .company-logo img {
     width: 100%;
 }
+
+#masthead{
+    background: url(resources/img/masthead.jpg) 0px -360px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

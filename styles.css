@@ -1,0 +1,31 @@
+#product-categories #nav-tab a.active {
+    color: #212529!important;
+}
+#product-categories #nav-tab a:link {
+    color: #fff;
+}
+
+#product-categories .nav-item figure img {
+    width: 100%;
+}
+
+#product-categories .nav-tabs {
+    border-bottom: 0;
+}
+
+#product-categories .nav .nav-link.active {
+    background-color: transparent;
+    border: 0;
+}
+
+#product-categories .nav .nav-link.active .product-cat-details {
+    background-color: #fff;
+}
+
+.product-box{
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+#our-company .company-logo img {
+    width: 100%;
+}

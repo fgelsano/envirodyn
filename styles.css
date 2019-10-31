@@ -36,7 +36,7 @@
     background-repeat: no-repeat;
 }
 
-nav a.active::after{
+#nav-tab a.active::after{
     content: " ";
     position: absolute;
     top: 110%;
